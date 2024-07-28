@@ -28,8 +28,8 @@ import "_scripts/asm/fast_doors.ccs"
 import "_scripts/asm/easy_deaths.ccs"
 import "_scripts/asm/run_button_toggleable.ccs"
 import "_scripts/asm/repel_sandwiches.ccs"
-import "_scripts/asm/run_accelerating.ccs"
-import "_scripts/asm/GoodsMenuEquip.ccs"
+/* import "_scripts/asm/run_accelerating.ccs" */
+/* import "_scripts/asm/GoodsMenuEquip.ccs" */
 /* Enums */
 import "_scripts/modmenu/modmenu.ccs"
 import "_scripts/modmenu/goods/goodsmenu.ccs"
